@@ -1,0 +1,19 @@
+@media (max-width:600px){
+    h2{
+        font-size: border;
+        position: relative;
+        color: white;
+        margin-bottom: 0;
+    }
+    p{
+        margin-top: 0;
+        color: rgb(153, 153, 153);
+        position: relative;
+    }
+    .click{
+    color: rgb(237,50,125);
+    border-bottom: 2px dashed rgb(237,50,125);
+    /* background-color: rgb(254,181,13); */
+    /* background-color: rgb(237,50,125); */
+    }
+}

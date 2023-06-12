@@ -1,0 +1,20 @@
+.headerContainer {
+    width: 95%;
+    padding: 12px;
+    color: red;
+    backdrop-filter: blur(9px);
+    -webkit-backdrop-filter: blur(9px);
+    position: fixed;
+    z-index: 3;
+  }
+  .bodyContainer{
+    height: 100vh;
+    overflow: auto;
+    background-color: rgb(40, 41, 44);
+    padding: 12px;
+    padding-top: 0px;
+  }
+  .barrier{
+    height: 16vh;
+  }
+  

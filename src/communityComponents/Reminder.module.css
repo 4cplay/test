@@ -1,0 +1,27 @@
+@media (max-width:600px){
+    .text{
+        font-size: border;
+        position: relative;
+        color: rgb(95,216,244);
+        margin-bottom: 0;
+    }
+    .container{
+        /* border: 2px solid red; */
+        border-left: 3px solid rgb(16,102,125);
+        background-color: rgb(5,30,36);
+        padding: 7px;
+     
+    }
+    .link{
+        background-color: rgb(237,50,125);
+        color: white;
+        padding-left: 3px;
+        padding-right: 3px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+        margin-top: 4px;
+        margin-bottom: 4px;
+    }
+}

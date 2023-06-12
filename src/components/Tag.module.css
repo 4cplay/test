@@ -1,0 +1,13 @@
+.grid{  
+    padding: 0;
+}
+.title{
+    color:rgb(250,22,83);
+    font-weight:bolder;
+}
+.release{
+    color:rgb(246,131,26);
+}
+.skills{
+    color:rgb(5,199,234);
+}
