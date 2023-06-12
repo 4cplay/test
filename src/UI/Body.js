@@ -18,8 +18,8 @@ const Body = () =>{
     const fetchData = async () =>{
         // const response = await fetch("http://192.168.0.203:8080/");
         // const response = await fetch("http://18.144.65.203:8080/");
-        const response = await fetch("localhost:8080/");
-   
+        // const response = await fetch("localhost:8080/");
+        const response = await fetch("http://54.176.130.158:8080");
         const data = await response.json();
         console.log(data[0])
         setDataList(data);
